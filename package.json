@@ -1,19 +1,19 @@
 {
-  "name": "randomstring",
-  "version": "1.1.5",
-  "author": "Elias Klughammer <elias@klughammer.com> (http://www.klughammer.com)",
+  "name": "@d-fischer/randomstring",
+  "version": "1.1.6",
+  "author": "Daniel Fischer <daniel@d-fischer.dev>",
   "description": "A module for generating random strings",
-  "homepage": "https://github.com/klughammer/node-randomstring",
+  "homepage": "https://github.com/d-fischer/node-randomstring",
   "repository": {
     "type": "git",
-    "url": "git://github.com/klughammer/node-randomstring.git"
+    "url": "git://github.com/d-fischer/node-randomstring.git"
   },
   "main": "./index",
   "engines": {
     "node": "*"
   },
   "dependencies": {
-    "array-uniq": "1.0.2"  
+    "array-uniq": "1.0.2"
   },
   "devDependencies": {
     "mocha": "^1.20.1"
