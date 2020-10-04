@@ -1,6 +1,6 @@
 {
   "name": "@d-fischer/randomstring",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "author": "Daniel Fischer <daniel@d-fischer.dev>",
   "description": "A module for generating random strings",
   "homepage": "https://github.com/d-fischer/node-randomstring",
