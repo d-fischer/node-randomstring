@@ -9,7 +9,6 @@
     "url": "git://github.com/d-fischer/node-randomstring.git"
   },
   "main": "./index",
-  "module": "./index.mjs",
   "exports": {
     ".": {
       "require": "./index.js",
